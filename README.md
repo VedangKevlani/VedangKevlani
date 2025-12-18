@@ -5,19 +5,19 @@ Hi, I’m Vedang 👋
 <code>Full-stack web applications, AI-powered tools, and student-focused projects that solve real-world problems.</code>
 
 🙌 I’m looking to collaborate on
-Web apps, AI projects, open-source tools, and anything that involves turning ideas into usable products.
+<code>Web apps, AI projects, open-source tools, and anything that involves turning ideas into usable products.</code>
 
 🤝 I’m looking for help with
-Improving system design, scaling applications, and refining UI/UX for production-ready projects.
+<code>Improving system design, scaling applications, and refining UI/UX for production-ready projects.</code>
 
 🌱 I’m currently learning
-Advanced full-stack development, applied AI, data-driven decision making, and modern frontend frameworks.
+<code>Advanced full-stack development, applied AI, data-driven decision making, and modern frontend frameworks.</code>
 
 💭 Ask me about
-React, Vue, Flutter, Flask, AI integrations, and building projects from scratch.
+<code>React, Vue, Flutter, Flask, AI integrations, and building projects from scratch.</code>
 
 ⚡ Fun fact
-I learn best by building first and figuring things out along the way.
+<code>I learn best by building first and figuring things out along the way.</code>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/vedang-kevlani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevlanivedang28@gmail.com) 
