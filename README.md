@@ -1,6 +1,23 @@
 # 💫 About Me:
-** <h2>Hi, I’m Vedang</h2> ** 👋<br><br>🚀 I am currently working on<br><br>**Full-stack web applications, AI-powered tools, and business-focused projects that solve real-world problems.** <br><br>🙌 I’m looking to collaborate on<br><br>**Web apps, AI projects, open-source tools, and anything that involves turning ideas into usable products.** <br><br>🤝 I’m looking for help with<br><br>**Improving system design, scaling applications, and refining UI/UX for production-ready projects.** <br><br>🌱 I’m currently learning<br><br>**Advanced full-stack development, applied AI, data-driven decision making, and modern frontend frameworks.** <br><br>💭 Ask me about<br><br>**React, Vue, Flask, AI integrations, and building projects from scratch.** <br><br>⚡ Fun fact<br><br>**I learn best by building first and figuring things out along the way.**
+Hi, I’m Vedang 👋
 
+🚀 I am currently working on
+<code>Full-stack web applications, AI-powered tools, and student-focused projects that solve real-world problems.</code>
+
+🙌 I’m looking to collaborate on
+Web apps, AI projects, open-source tools, and anything that involves turning ideas into usable products.
+
+🤝 I’m looking for help with
+Improving system design, scaling applications, and refining UI/UX for production-ready projects.
+
+🌱 I’m currently learning
+Advanced full-stack development, applied AI, data-driven decision making, and modern frontend frameworks.
+
+💭 Ask me about
+React, Vue, Flutter, Flask, AI integrations, and building projects from scratch.
+
+⚡ Fun fact
+I learn best by building first and figuring things out along the way.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/vedang-kevlani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevlanivedang28@gmail.com) 
